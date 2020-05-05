@@ -1,0 +1,23 @@
+body {
+    background-image: url(../image/blueocean.jpg);
+    background-color: rgb(139, 134, 134);
+    background-blend-mode: hard-light;
+}
+h1 {
+    text-align: center;
+    padding: 80px 0 20px;
+}
+.slideshow {
+    width: 500px;
+    margin: auto;
+}
+.slideshow img {
+    width: 100%;
+}
+a {
+    color: black;
+}
+.thanks {
+    text-align: center;
+    padding-top: 80px;
+}
